@@ -1,16 +1,16 @@
 # Fishy
 ## A new programming language inspired by Basic called Fishy
 
- _________         .    .
-(..       \_    ,  |\  /|
- \       O  \  /|  \ \/ /
-  \______    \/ |   \  / 
-     vvvv\    \ |   /  |
-     \^^^^  ==   \_/   |
-      `\_   ===    \.  |
-      / /\_   \ /      |
-      |/   \_  \|      /
-             \________/
+ _________         .    .<br>
+(..       \_    ,  |\  /|<br>
+ \       O  \  /|  \ \/ /<br>
+  \______    \/ |   \  / <br>
+     vvvv\    \ |   /  |<br>
+     \^^^^  ==   \_/   |<br>
+      `\_   ===    \.  |<br>
+      / /\_   \ /      |<br>
+      |/   \_  \|      /<br>
+             \________/<br>
 
 Creating this to learn more about languages, compliers, parsing, and more.
 
