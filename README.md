@@ -12,11 +12,22 @@ and a main.py file which you'll run to complie the C code
 
 Supportd functionality:
 
-  Numerical variables \
-  Basic arithmetic \
-  If statements\
-  While loops \ 
-  \ Print text and numbers \
-  Input numbers \
-  Labels and goto \
-  Comments \
+  Numerical variables <br />
+  Basic arithmetic <br />
+  If statements <br />
+  While loops <br />
+  Print text and numbers <br />
+  Input numbers <br />
+  Labels and goto <br />
+  Comments <br />
+
+   _________         .    .<br />
+(..       \_    ,  |\  /|<br />
+ \       O  \  /|  \ \/ /<br />
+  \______    \/ |   \  / <br />
+     vvvv\    \ |   /  |<br />
+     \^^^^  ==   \_/   |<br />
+      `\_   ===    \.  |<br />
+      / /\_   \ /      |<br />
+      |/   \_  \|      /<br />
+             \________/<br />
