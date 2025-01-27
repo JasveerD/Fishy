@@ -14,8 +14,8 @@ Supportd functionality:
 
   Numerical variables \
   Basic arithmetic \
-  If statements \
-  While loops \ 
+  If statements\
+  While loops\ 
   Print text and numbers \
   Input numbers \
   Labels and goto \
